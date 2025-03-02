@@ -27,7 +27,7 @@ jobs:
 
       - name: Publish to NPM
         run: |
-          cd dist/event-bus
+          cd dist/bus
           npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
