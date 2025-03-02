@@ -19,7 +19,7 @@ const sidebars: SidebarsConfig = {
             'api/strategies/stateless',
             'api/strategies/stateful',
             'api/strategies/debounce',
-            'api/strategies/throttle',
+            // 'api/strategies/throttle', - removing this line fixes the error
           ],
         },
         {
