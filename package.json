@@ -8,6 +8,15 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-github-username/EDA-event-bus.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-github-username/EDA-event-bus/issues"
+  },
   "private": false,
   "dependencies": {
     "@angular/animations": "^18.2.0",
