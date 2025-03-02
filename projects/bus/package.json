@@ -1,5 +1,5 @@
 {
-  "name": "@angular-EDA/bus",
+  "name": "@snappydebug/bus",
   "version": "0.0.1",
   "peerDependencies": {
     "honkit": "^6.0.2",

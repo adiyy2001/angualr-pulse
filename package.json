@@ -12,10 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/adiyy2001/angular-pulse"
   },
-  "author": "Your Name",
+  "author": "Adrian turbiński",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-github-username/EDA-event-bus/issues"
+    "url": "https://github.com/adiyy2001/angular-pulse/issues"
   },
   "private": false,
   "dependencies": {
