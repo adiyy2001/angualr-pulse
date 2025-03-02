@@ -1,6 +1,6 @@
 {
   "name": "@snappydebug/bus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
     "honkit": "^6.0.2",
     "karma-coverage": "^2.2.1",
