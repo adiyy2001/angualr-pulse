@@ -1,12 +1,7 @@
 {
-  "name": "bus",
+  "name": "@angular-EDA/bus",
   "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^18.2.0",
-    "@angular/core": "^18.2.0"
-  },
-  "dependencies": {
-    "global": "^4.4.0",
     "honkit": "^6.0.2",
     "karma-coverage": "^2.2.1",
     "tslib": "^2.3.0"
